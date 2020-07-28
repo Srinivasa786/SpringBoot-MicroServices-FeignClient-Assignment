@@ -1,0 +1,5 @@
+insert into Order_INFO (Order_ID, Customer_Name,Order_Date, total,Shipping_Address,Order_Items) values (101, 'Srinu','10-07-2020', 10000,'Hyderabad','10001,10002,10003');
+insert into Order_INFO (Order_ID, Customer_Name, Order_Date,total,Shipping_Address,Order_Items) values (102, 'Ravi','18-07-2020',  40000,'Hyderabad','10001,10004,10003');
+insert into Order_INFO (Order_ID, Customer_Name,Order_Date, total,Shipping_Address,Order_Items) values (103, 'Ramu','12-07-2020',  10000,'Chennai','10001,10002,10003');
+insert into Order_INFO (Order_ID, Customer_Name, Order_Date,total,Shipping_Address,Order_Items) values (104, 'Raj','15-07-2020',  20000,'Pune','10001,10004,10003');
+insert into Order_INFO (Order_ID, Customer_Name, Order_Date,total,Shipping_Address,Order_Items) values (105, 'siva','11-07-2020',  10000,'Hyderabad','10001,10002,10005');
